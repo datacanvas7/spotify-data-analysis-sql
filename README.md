@@ -31,6 +31,7 @@ The objective of this analysis is to help understand:
 
 ---
 📊 **Business Questions Addressed**
+
 🔹 **Core Streaming Insights**
 - Retrieve tracks with more than 1 billion streams/
 - List albums along with their respective artists/
@@ -56,6 +57,9 @@ The objective of this analysis is to help understand:
 - Singles consistently performed better in streaming popularity metrics.
 - A small number of top-performing tracks contributed heavily to artist visibility.
 - Listener behavior differed across Spotify and YouTube platforms.
+
+---
+
 🛠️ **Tools & Technologies**
 - SQL (Joins, Subqueries, CTEs, Aggregate & Window Functions)
 - Query Language: T-SQL (Transact-SQL)
